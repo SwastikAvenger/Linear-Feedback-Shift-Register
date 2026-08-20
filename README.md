@@ -34,11 +34,14 @@ Testbench simulation of lfsr_top.v
 
 <img width="1040" height="229" alt="TestBench" src="https://github.com/user-attachments/assets/d164a58d-f1ee-4231-856c-99d28ad8e614" />
 
-Power Report and Implementation Report respectively
+Power Report and Utilization Report respectively
 
 <img width="525" height="298" alt="Power" src="https://github.com/user-attachments/assets/e43e29f2-18b3-4d50-8172-665a3c2de9fe" />
 
 <img width="501" height="245" alt="Implementation" src="https://github.com/user-attachments/assets/239c68a5-2b76-42c9-af65-eff3bf8a5cc7" />
+
+That marks the end of the project. Feel free to use this project as a reference and build your own design. 
+Good Ideas should have no borders.
 
 
 
